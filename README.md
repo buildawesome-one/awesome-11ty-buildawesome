@@ -87,6 +87,9 @@ New starters:
 [All-in-_One_ Examples](https://github.com/buildawesome-one/examples)
 : Example starters showcasing Build Awesome One kit for: [1] Multisite Starter [2] Blades / Pico CSS [3] Bootstrap [4] Web Awesome [5] Sveltia CMS [6] Liquid Templates [7] Tailwind Starter [8] OG Images Starter.
 
+[OMEGA Brand Template](https://github.com/Omega-JS-Stack/brand-template)
+: Starter for OMEGA, a framework built on Eleventy 3: a short wizard writes one config file and boots the site, which can later grow a backend, desktop app and browser extension.
+
 <!--
 [Base Blog](https://github.com/11ty/awesome-base-blog)
 : DRAFT REPOSITORY IN PROGRESS: A starter repository for a blog web site using the Eleventy static site generator and Web Awesome.
